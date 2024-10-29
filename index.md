@@ -22,3 +22,14 @@ Several figures are drawn using Plotly, allowing for interactive operations.
 
 ### Supplementary Figure 2. Performance Meterics Comparison 
 {% include PerformanceMetrics.html %}
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CK11DQZG46"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CK11DQZG46');
+</script>
