@@ -21,4 +21,4 @@ Several figures are drawn using Plotly, allowing for interactive operations.
 {% include Figure3A.html %}
 
 ### Supplementary Figure 2. Performance Meterics Comparison 
-{% include Figure3B.html %}
+{% include PerformanceMetrics.html %}
