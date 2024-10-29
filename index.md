@@ -8,9 +8,9 @@ Splicing variants significantly contribute to Mendelian disorders, yet predictio
 ## 2. Additional Results information 
 ## The list of eLoF genes
 A Microsft Excel format file is available.
-[Here](../develop/_includes/eLoF_genes_list.xlsx).  
-  
-{% include elof_venn.png %}
+[Here](../develop/_includes/eLoF_genes_list.txt).  
+
+<img src="../develop/_includes/elof_venn.png" alt="venn" title="A Venn's figure of source of eLoF genes" width="200" height="200">
   
 ## Analysis note as Google colab
 The code used for reanalyzing WES can be replicated in Google Colab.
